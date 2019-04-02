@@ -18,7 +18,7 @@ Give the example
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* [Consensus Base Inc.](https://floc.jp/course/engsmart/)
 
 ## License
 
