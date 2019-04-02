@@ -2,14 +2,9 @@
 
 It is an application for the school specialized in acquiring the skills of smart contract development using Ethereum.
 
-## Getting Started
-
-It is an application for the school specialized in acquiring the skills of smart contract development using Ethereum.
-
-
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+A step by step series of examples that ...
 
 ```
 truffle init
