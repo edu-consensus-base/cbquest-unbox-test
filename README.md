@@ -1,24 +1,36 @@
 # cbquest
 
-description xxxxxxx .
+It is an application for the school specialized in acquiring the skills of smart contract development using Ethereum.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+It is an application for the school specialized in acquiring the skills of smart contract development using Ethereum.
+
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+```
+truffle init
+```
 
 ```
-Give the example
+npm install express
 ```
+
+```
+npm install openzeppelin-solidity
+```
+
+```
+npm install truffle-hdwallet-provider
+```
+
 
 ## Authors
 
-* [Consensus Base Inc.](https://floc.jp/course/engsmart/)
+* [Consensus Base Inc.](https://en.floc.jp/)
 
 ## License
 
